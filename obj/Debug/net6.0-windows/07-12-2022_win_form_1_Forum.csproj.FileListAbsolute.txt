@@ -1,0 +1,17 @@
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\bin\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.exe
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\bin\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.deps.json
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\bin\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\bin\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.dll
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\bin\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.pdb
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\_07_12_2022_win_form_1_Forum.Form1.resources
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.csproj.GenerateResource.cache
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.dll
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\refint\07-12-2022_win_form_1_Forum.dll
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.pdb
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\07-12-2022_win_form_1_Forum.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\07-12-2022_win_form_1_Forum\obj\Debug\net6.0-windows\ref\07-12-2022_win_form_1_Forum.dll
